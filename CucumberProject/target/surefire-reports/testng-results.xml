@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-07T18:57:03 IST" name="Surefire suite" finished-at="2025-03-07T19:03:23 IST" duration-ms="379857">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-03-07T18:57:03 IST" name="Surefire test" finished-at="2025-03-07T19:03:23 IST" duration-ms="379857">
+      <class name="runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:57:03 IST" name="setUpClass" finished-at="2025-03-07T18:57:05 IST" duration-ms="1284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@532e00bd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:57:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:57:30 IST" duration-ms="25646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:57:30 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:57:48 IST" duration-ms="17154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:57:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:58:13 IST" duration-ms="25440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:58:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:58:30 IST" duration-ms="16738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:58:30 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:58:48 IST" duration-ms="17867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:58:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:59:07 IST" duration-ms="19064" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:59:07 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:59:25 IST" duration-ms="18268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:59:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T18:59:49 IST" duration-ms="23943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T18:59:49 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:00:07 IST" duration-ms="18614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:00:07 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:00:27 IST" duration-ms="19285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us Feature succusfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:00:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:00:41 IST" duration-ms="13991" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:00:41 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:00:54 IST" duration-ms="13224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:00:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:01:08 IST" duration-ms="13769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:01:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:01:22 IST" duration-ms="14012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:01:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:01:36 IST" duration-ms="14156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:01:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:01:50 IST" duration-ms="14008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:01:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:02:04 IST" duration-ms="14136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:02:04 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:02:19 IST" duration-ms="14763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:02:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:02:33 IST" duration-ms="14337" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:02:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:02:47 IST" duration-ms="14258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Feature successfull"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginFeature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:02:47 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-07T19:03:07 IST" duration-ms="19407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Sign in Succussfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["SignIn feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@1a45193b]" started-at="2025-03-07T19:03:07 IST" name="tearDownClass" finished-at="2025-03-07T19:03:23 IST" duration-ms="16395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.TestRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
